@@ -1,0 +1,15 @@
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\bin\Debug\net6.0\Lab2_Mini.exe
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\bin\Debug\net6.0\Lab2_Mini.deps.json
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\bin\Debug\net6.0\Lab2_Mini.runtimeconfig.json
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\bin\Debug\net6.0\Lab2_Mini.dll
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\bin\Debug\net6.0\Lab2_Mini.pdb
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.csproj.AssemblyReference.cache
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.AssemblyInfoInputs.cache
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.AssemblyInfo.cs
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.csproj.CoreCompileInputs.cache
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.dll
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\refint\Lab2_Mini.dll
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.pdb
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\Lab2_Mini.genruntimeconfig.cache
+C:\Users\ivanj\Desktop\AAA\teccart\session-2\poo\lab-2_mini\Lab2_Mini\Lab2_Mini\obj\Debug\net6.0\ref\Lab2_Mini.dll
